@@ -1,2 +1,5 @@
 # streamlit-binomial-probability-ci
-Streamlit UI to get a sense of confidence in the probability of something based on repeated observations
+
+Streamlit UI to compute the confidence interval of the probability of a binomial process given some observations.
+
+This can be hosted on Streamlit Community Cloud when the permissions are relaxed.
